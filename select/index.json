@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "ENDLESS SKY",
+  "base_artist": "モーニング娘。'15",
+  "createdAt": "2026-02-20T08:08:13.339417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless Sky [feat. Danny Worsnop]",
+      "artist": "I See Stars",
+      "has_synced": true,
+      "path": "select/01_Endless_Sky_[feat._Danny_Worsnop]_I_See_Stars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "I See Stars",
+      "has_synced": false,
+      "path": "select/02_Endless_Sky_I_See_Stars.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Endless Sky (Instrumental Version)",
+      "artist": "I See Stars",
+      "has_synced": true,
+      "path": "select/03_Endless_Sky_(Instrumental_Version)_I_See_Stars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "I See Stars feat. Danny Worsnop",
+      "has_synced": true,
+      "path": "select/04_Endless_Sky_I_See_Stars_feat._Danny_Worsnop.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "Dusky",
+      "has_synced": false,
+      "path": "select/05_Endless_Sky_Dusky.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Endless Sky (feat. Danny Worsnop)",
+      "artist": "I See Stars feat. Danny Worsnop",
+      "has_synced": true,
+      "path": "select/06_Endless_Sky_(feat._Danny_Worsnop)_I_See_Stars_feat._Danny_Worsnop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "An Endless Sky of Honey",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/07_An_Endless_Sky_of_Honey_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "Dusky",
+      "has_synced": true,
+      "path": "select/08_Endless_Sky_Dusky.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "Weilim Lin feat. Kenton Chen & Katherine Ho",
+      "has_synced": true,
+      "path": "select/09_Endless_Sky_Weilim_Lin_feat._Kenton_Chen_&_Katherine_Ho.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "Weilim Lin, Kenton Chen, Katherine Ho",
+      "has_synced": true,
+      "path": "select/10_Endless_Sky_Weilim_Lin,_Kenton_Chen,_Katherine_Ho.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "I See Stars",
+      "has_synced": true,
+      "path": "select/11_Endless_Sky_I_See_Stars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Endless Sky (Instrumental Version)",
+      "artist": "I See Stars feat. Danny Worsnop",
+      "has_synced": false,
+      "path": "select/12_Endless_Sky_(Instrumental_Version)_I_See_Stars_feat._Danny_Worsnop.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Endless Sky",
+      "artist": "Weilim Lin",
+      "has_synced": true,
+      "path": "select/13_Endless_Sky_Weilim_Lin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Endless Sky (feat. greek)",
+      "artist": "Alé Araya",
+      "has_synced": true,
+      "path": "select/14_Endless_Sky_(feat._greek)_Alé_Araya.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "後悔莫及 (Endless Story Live)",
+      "artist": "蘇打綠",
+      "has_synced": false,
+      "path": "select/15_後悔莫及_(Endless_Story_Live)_蘇打綠.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Corner of an Endless Road",
+      "artist": "Lior",
+      "has_synced": false,
+      "path": "select/16_Corner_of_an_Endless_Road_Lior.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Endless Love (Duet With Mariah Carey)",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/17_Endless_Love_(Duet_With_Mariah_Carey)_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Endless Love",
+      "artist": "Diana Ross & Lionel Richie",
+      "has_synced": true,
+      "path": "select/18_Endless_Love_Diana_Ross_&_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Endless Love",
+      "artist": "Diana Ross And Lionel Richie",
+      "has_synced": true,
+      "path": "select/19_Endless_Love_Diana_Ross_And_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Highway Of Endless Dreams",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/20_Highway_Of_Endless_Dreams_M83.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Endless Search",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/21_Endless_Search_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Endless, Nameless (Remastered)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/22_Endless,_Nameless_(Remastered)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Endless, Nameless - Live & Loud",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/23_Endless,_Nameless_-_Live_&_Loud_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Endless, Nameless - 1991 Radio Appearance",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/24_Endless,_Nameless_-_1991_Radio_Appearance_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Endless, Nameless (Radio Appearance)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/25_Endless,_Nameless_(Radio_Appearance)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Endless Sleep",
+      "artist": "Chromatics",
+      "has_synced": false,
+      "path": "select/26_Endless_Sleep_Chromatics.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Endless City",
+      "artist": "Mystery Jets",
+      "has_synced": false,
+      "path": "select/27_Endless_City_Mystery_Jets.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Endless Life",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/28_Endless_Life_The_Verve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ENDLESS SKY",
+      "artist": "モーニング娘。'15",
+      "has_synced": false,
+      "path": "select/pl_01_ENDLESS_SKY_モーニング娘。'15.txt"
+    }
+  ]
+}
